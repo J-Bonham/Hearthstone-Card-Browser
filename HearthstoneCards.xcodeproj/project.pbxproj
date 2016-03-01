@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A20E5B1E1C81377200E6A2BD /* SpecificClassCardsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20E5B1D1C81377200E6A2BD /* SpecificClassCardsVC.swift */; };
 		A2D0BAA21C7687E500F7A06B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D0BAA11C7687E500F7A06B /* AppDelegate.swift */; };
 		A2D0BAA71C7687E500F7A06B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D0BAA51C7687E500F7A06B /* Main.storyboard */; };
 		A2D0BAA91C7687E500F7A06B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D0BAA81C7687E500F7A06B /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A20E5B1D1C81377200E6A2BD /* SpecificClassCardsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpecificClassCardsVC.swift; sourceTree = "<group>"; };
 		A2D0BA9E1C7687E500F7A06B /* HearthstoneCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HearthstoneCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2D0BAA11C7687E500F7A06B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2D0BAA61C7687E500F7A06B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A2D0BAA51C7687E500F7A06B /* Main.storyboard */,
 				A2D0BAB51C76892700F7A06B /* Cards.swift */,
 				A2D0BAB31C76890600F7A06B /* MainViewController.swift */,
+				A20E5B1D1C81377200E6A2BD /* SpecificClassCardsVC.swift */,
 				A2D0BAB71C76BF3500F7A06B /* DetailViewController.swift */,
 				A2D0BAA81C7687E500F7A06B /* Assets.xcassets */,
 				A2D0BAAA1C7687E500F7A06B /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2D0BAB61C76892700F7A06B /* Cards.swift in Sources */,
+				A20E5B1E1C81377200E6A2BD /* SpecificClassCardsVC.swift in Sources */,
 				A2D0BAA21C7687E500F7A06B /* AppDelegate.swift in Sources */,
 				A2D0BAB41C76890600F7A06B /* MainViewController.swift in Sources */,
 				A2D0BAB81C76BF3500F7A06B /* DetailViewController.swift in Sources */,
